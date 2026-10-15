@@ -32,8 +32,8 @@ Clone this repository and run `sign_language_setup.py`. The automated setup scri
 
 ```bash
 # Clone repository
-git clone [https://github.com/SdheroPro/Ars-Signorum.git](https://github.com/SdheroPro/Ars-Signorum.git)
-cd Ars-Signorum
+git clone https://github.com/SdheroPro/ai-sign-language-translator.git
+cd ai-sign-language-translator
 
 # Run automated setup & launch app
 python sign_language_setup.py
